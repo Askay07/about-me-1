@@ -4,7 +4,7 @@
 - [HOSTED PAGE](https://rajeevbro.github.io/about-me/.)
 
 ## ABOUT
-This repo will be used to learn to do various things in class. I gonna experiment new thing I learned here and may be at the end I will make it as a nice repo about myself.
+This repo will be used to learn to do various things in class. Here, I gonna experiment new thing I learned  and may be at the end I will make it as a nice repo about myself.
 ## Recommended Tools:
 1. [github account](https://github.com/)
 1. You might also need [visula studio code](https://code.visualstudio.com/) if you wanna do it easily
